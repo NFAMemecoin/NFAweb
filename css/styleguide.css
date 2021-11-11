@@ -1,0 +1,17 @@
+:root { 
+  --night-rider: #211010;
+  --white: #ffffff;
+ 
+  --font-size-m: 100px;
+  --font-size-s: 35px;
+  --font-size-xs: 25px;
+ 
+  --font-family-permanentmarker_pro-regular: "PermanentMarker Pro-Regular", Helvetica;
+}
+.permanentmarkerpro-regular-normal-white-100px {
+  color: var(--white);
+  font-family: var(--font-family-permanentmarker_pro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
