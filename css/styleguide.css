@@ -6,7 +6,7 @@
   --font-size-s: 35px;
   --font-size-xs: 25px;
  
-  --font-family-permanentmarker_pro-regular: "PermanentMarker Pro-Regular", Helvetica;
+  --font-family-permanentmarker_pro-regular: "permanent-marker-pro", Helvetica;
 }
 .permanentmarkerpro-regular-normal-white-100px {
   color: var(--white);
