@@ -1,0 +1,180 @@
+/* screen - iphone-12-pro-max-1 */
+
+.iphone-12-pro-max-1 {
+  background-color: var(--white);
+  height: 1523px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.iphone-12-pro-max-1 .rectangle-4-rDahWn {
+  background-color: #211010;
+  border: 1px solid #707070;
+  height: 1852px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 428px;
+}
+
+.iphone-12-pro-max-1 .group-11-rDahWn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 72px;
+  left: 72px;
+  pointer-events: auto;
+  position: absolute;
+  top: 544px;
+  transition: all 0.2s ease;
+  width: 284px;
+}
+
+.iphone-12-pro-max-1 .group-11-rDahWn:hover {
+  opacity: 85;
+}
+
+.iphone-12-pro-max-1 .path-1-P8cHm7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-12-pro-max-1 .buy-on-uniswap-P8cHm7 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: calc(24.20% - 10px);
+  color: var(--white);
+  font-family: var(--font-family-permanentmarker_pro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(48.71% - 91px);
+  text-align: left;
+  white-space: nowrap;
+  width: 187px;
+}
+
+.iphone-12-pro-max-1 .no-path-rDahWn {
+  background-color: transparent;
+  height: 56px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 747px;
+  width: 56px;
+}
+
+.iphone-12-pro-max-1 .no-path-copy-rDahWn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 56px;
+  left: 233px;
+  object-fit: cover;
+  position: absolute;
+  top: 747px;
+  width: 56px;
+}
+
+.iphone-12-pro-max-1 .group-10-rDahWn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 72px;
+  left: 72px;
+  pointer-events: auto;
+  position: absolute;
+  top: 638px;
+  transition: all 0.2s ease;
+  width: 284px;
+}
+
+.iphone-12-pro-max-1 .group-10-rDahWn:hover {
+  opacity: 85;
+}
+
+.iphone-12-pro-max-1 .path-2-qUCYV4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-12-pro-max-1 .view-dex-tools-qUCYV4 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: calc(24.20% - 10px);
+  color: var(--white);
+  font-family: var(--font-family-permanentmarker_pro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(48.21% - 90px);
+  text-align: left;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.iphone-12-pro-max-1 .title-rDahWn {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-permanentmarker_pro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-12-pro-max-1 .union-2-rDahWn {
+  background-color: transparent;
+  height: 269px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 202px;
+  width: 399px;
+}
+
+.iphone-12-pro-max-1 .union-4-rDahWn {
+  background-color: transparent;
+  height: 627px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 868px;
+  width: 377px;
+}
+
+.iphone-12-pro-max-1 .image-1-rDahWn {
+  background-color: transparent;
+  height: 48px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 1280px;
+  width: 48px;
+}
