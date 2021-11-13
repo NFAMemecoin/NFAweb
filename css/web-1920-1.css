@@ -1,158 +1,8 @@
-/* screen - iphone-12-pro-max-1 */
-
-.iphone-12-pro-max-1 {
-  background-color: var(--white);
-  height: 926px;
-  overflow: hidden;
-  overflow-x: hidden;
-  position: relative;
-  width: 428px;
-}
-
-.iphone-12-pro-max-1 .rectangle-4-rDahWn {
-  background-color: var(--night-rider);
-  border: 1px solid #707070;
-  height: 928px;
-  left: 0px;
-  position: absolute;
-  top: -2px;
-  width: 428px;
-}
-
-.iphone-12-pro-max-1 .group-11-rDahWn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 72px;
-  left: 72px;
-  pointer-events: auto;
-  position: absolute;
-  top: 311px;
-  transition: all 0.2s ease;
-  width: 284px;
-}
-
-.iphone-12-pro-max-1 .group-11-rDahWn:hover {
-  opacity: 85;
-}
-
-.iphone-12-pro-max-1 .path-1-P8cHm7 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.iphone-12-pro-max-1 .buy-on-uniswap-P8cHm7 {
-  -webkit-text-stroke: 1px var(--white);
-  background-color: transparent;
-  bottom: calc(24.20% - 10px);
-  color: var(--white);
-  font-family: var(--font-family-permanentmarker_pro-regular);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-  height: 41px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: calc(48.71% - 91px);
-  text-align: left;
-  white-space: nowrap;
-  width: 187px;
-}
-
-.iphone-12-pro-max-1 .no-path-rDahWn {
-  background-color: transparent;
-  height: 56px;
-  left: 140px;
-  object-fit: cover;
-  position: absolute;
-  top: 514px;
-  width: 56px;
-}
-
-.iphone-12-pro-max-1 .no-path-copy-rDahWn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 56px;
-  left: 233px;
-  object-fit: cover;
-  position: absolute;
-  top: 514px;
-  width: 56px;
-}
-
-.iphone-12-pro-max-1 .group-10-rDahWn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 72px;
-  left: 72px;
-  pointer-events: auto;
-  position: absolute;
-  top: 405px;
-  transition: all 0.2s ease;
-  width: 284px;
-}
-
-.iphone-12-pro-max-1 .group-10-rDahWn:hover {
-  opacity: 85;
-}
-
-.iphone-12-pro-max-1 .path-2-qUCYV4 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.iphone-12-pro-max-1 .view-dex-tools-qUCYV4 {
-  -webkit-text-stroke: 1px var(--white);
-  background-color: transparent;
-  bottom: calc(24.20% - 10px);
-  color: var(--white);
-  font-family: var(--font-family-permanentmarker_pro-regular);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-  height: 41px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: calc(48.21% - 90px);
-  text-align: left;
-  white-space: nowrap;
-  width: 186px;
-}
-
-.iphone-12-pro-max-1 .not-financial-advicebuy-nfa-rDahWn {
-  -webkit-text-stroke: 1px var(--white);
-  background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-permanentmarker_pro-regular);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 38px;
-  letter-spacing: 0.00px;
-  line-height: 35px;
-  position: absolute;
-  text-align: center;
-  top: 73px;
-  white-space: nowrap;
-  width: auto;
-}
 /* screen - web-1920-1 */
 
 .web-1920-1 {
   background-color: var(--white);
-  height: 1080px;
+  height: 2160px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
@@ -160,25 +10,40 @@
 }
 
 .web-1920-1 .rectangle-1-HlzXCz {
-  background-color: var(--night-rider);
+  background-color: #211010;
   border: 1px solid #707070;
-  height: 1080px;
+  height: 2160px;
   left: 0px;
   position: absolute;
   top: 0px;
   width: 1920px;
 }
 
+.web-1920-1 .widget-wrapper-HlzXCz {
+  background-color: transparent;
+  height: 1043px;
+  left: 0px;
+  position: absolute;
+  top: 683px;
+  width: 1920px;
+}
+
+.web-1920-1 .mackenzie-marco-ydsdza-unsplash-mYZ4sz {
+  background-color: transparent;
+  object-fit: cover;
+  width: 100%;
+}
+
 .web-1920-1 .title-HlzXCz {
   -webkit-text-stroke: 1px var(--white);
   background-color: transparent;
   height: auto;
-  left: 186px;
+  left: 168px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
-  text-align: left;
-  top: 134px;
+  text-align: center;
+  top: 160px;
   white-space: nowrap;
   width: auto;
 }
@@ -187,10 +52,10 @@
   background-color: transparent;
   cursor: pointer;
   height: 224px;
-  left: 497px;
+  left: 484px;
   pointer-events: auto;
   position: absolute;
-  top: 350px;
+  top: 1234px;
   transition: all 0.2s ease;
   width: 952px;
 }
@@ -227,10 +92,10 @@
   background-color: transparent;
   cursor: pointer;
   height: 224px;
-  left: 497px;
+  left: 484px;
   pointer-events: auto;
   position: absolute;
-  top: 603px;
+  top: 1487px;
   transition: all 0.2s ease;
   width: 952px;
 }
@@ -240,7 +105,7 @@
 }
 
 .web-1920-1 .rectangle-3-364X31 {
-  background-color: var(--night-rider);
+  background-color: #211010;
   border: 3px solid var(--white);
   height: 100%;
   left: 0px;
@@ -265,31 +130,44 @@
 
 .web-1920-1 .no-path-HlzXCz {
   background-color: transparent;
+  cursor: pointer;
   height: 114px;
-  left: 797px;
+  left: 784px;
   object-fit: cover;
+  pointer-events: auto;
   position: absolute;
-  top: 856px;
+  top: 1751px;
+  transition: all 0.2s ease;
   width: 114px;
+}
+
+.web-1920-1 .no-path-HlzXCz:hover {
+  transform: scale(0.9); 
 }
 
 .web-1920-1 .no-path-copy-HlzXCz {
   background-color: transparent;
   cursor: pointer;
   height: 114px;
-  left: 1009px;
+  left: 996px;
   object-fit: cover;
+  pointer-events: auto;
   position: absolute;
-  top: 856px;
+  top: 1751px;
+  transition: all 0.2s ease;
   width: 114px;
 }
-@media screen and (max-width: 1919px) {
-  .screen.web-1920-1 { 
-    display: none;
-   }
+
+.web-1920-1 .no-path-copy-HlzXCz:hover {
+  transform: scale(0.9); 
 }
-@media screen and (min-width: 1920px) {
-  .screen.iphone-12-pro-max-1 { 
-    display: none;
-   }
+
+.web-1920-1 .union-5-HlzXCz {
+  background-color: transparent;
+  height: 693px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 337px;
+  width: 1591px;
 }
