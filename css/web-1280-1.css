@@ -1,68 +1,73 @@
-/* screen - web-1920-1 */
+/* screen - web-1280-1 */
 
-.web-1920-1 {
+.web-1280-1 {
   background-color: var(--white);
   height: 5760px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1920px;
+  width: 1280px;
 }
 
-.web-1920-1 .rectangle-1-HlzXCz {
+.web-1280-1 .rectangle-5-iw6dzL {
   background-color: var(--night-rider);
   border: 1px solid #707070;
   height: 5760px;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1920px;
+  width: 1277px;
 }
 
-.web-1920-1 .ibrahim-mushan-wl5-vi-unsplash-HlzXCz {
+.web-1280-1 .ibrahim-mushan-wl5-vi-unsplash-iw6dzL {
   background-color: transparent;
   height: 317px;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 3556px;
-  width: 1920px;
+  width: 1277px;
 }
 
-.web-1920-1 .widget-wrapper-HlzXCz {
+.web-1280-1 .widget-wrapper-iw6dzL {
   background-color: transparent;
   height: 1080px;
   left: 0px;
   position: absolute;
   top: 1085px;
-  width: 1920px;
+  width: 1277px;
 }
 
-.web-1920-1 .mackenzie-marco-ydsdza-unsplash-mYZ4sz {
+.web-1280-1 .mackenzie-marco-ydsdza-unsplash-6WL1rQ {
   background-color: transparent;
   object-fit: cover;
   width: 100%;
 }
 
-.web-1920-1 .title-HlzXCz {
+.web-1280-1 .not-financial-advice-buy-nfa-iw6dzL {
   -webkit-text-stroke: 1px var(--white);
   background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-permanentmarker_pro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
   height: auto;
   left: 168px;
   letter-spacing: 0.00px;
-  line-height: 100px;
+  line-height: 59px;
   position: absolute;
   text-align: center;
-  top: 106px;
+  top: 96px;
   white-space: nowrap;
   width: auto;
 }
 
-.web-1920-1 .group-1-HlzXCz {
+.web-1280-1 .group-12-iw6dzL {
   background-color: transparent;
   cursor: pointer;
   height: 224px;
-  left: 484px;
+  left: 162px;
   pointer-events: auto;
   position: absolute;
   top: 1357px;
@@ -70,11 +75,11 @@
   width: 952px;
 }
 
-.web-1920-1 .group-1-HlzXCz:hover {
+.web-1280-1 .group-12-iw6dzL:hover {
   transform: scale(0.9); 
 }
 
-.web-1920-1 .path-1-AjZs0L {
+.web-1280-1 .path-1-fI6RWx {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -84,7 +89,7 @@
   width: 100%;
 }
 
-.web-1920-1 .buy-on-uniswap-AjZs0L {
+.web-1280-1 .buy-on-uniswap-fI6RWx {
   -webkit-text-stroke: 1px var(--white);
   background-color: transparent;
   bottom: calc(10.14% - 16px);
@@ -98,11 +103,11 @@
   width: calc(100.00% - 211px);
 }
 
-.web-1920-1 .group-2-HlzXCz {
+.web-1280-1 .group-13-iw6dzL {
   background-color: transparent;
   cursor: pointer;
   height: 224px;
-  left: 484px;
+  left: 162px;
   pointer-events: auto;
   position: absolute;
   top: 1610px;
@@ -110,11 +115,11 @@
   width: 952px;
 }
 
-.web-1920-1 .group-2-HlzXCz:hover {
+.web-1280-1 .group-13-iw6dzL:hover {
   transform: scale(0.9); 
 }
 
-.web-1920-1 .rectangle-3-364X31 {
+.web-1280-1 .rectangle-3-WxCmR0 {
   background-color: var(--night-rider);
   border: 3px solid var(--white);
   height: 100%;
@@ -124,12 +129,12 @@
   width: 100%;
 }
 
-.web-1920-1 .view-dextools-364X31 {
+.web-1280-1 .view-dextools-WxCmR0 {
   -webkit-text-stroke: 1px var(--white);
   background-color: transparent;
   bottom: calc(10.14% - 16px);
   height: 155px;
-  left: 130px;
+  left: 131px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
@@ -138,11 +143,11 @@
   width: calc(100.00% - 258px);
 }
 
-.web-1920-1 .no-path-HlzXCz {
+.web-1280-1 .no-path-iw6dzL {
   background-color: transparent;
   cursor: pointer;
   height: 114px;
-  left: 784px;
+  left: 505px;
   object-fit: cover;
   pointer-events: auto;
   position: absolute;
@@ -151,15 +156,15 @@
   width: 114px;
 }
 
-.web-1920-1 .no-path-HlzXCz:hover {
+.web-1280-1 .no-path-iw6dzL:hover {
   transform: scale(0.9); 
 }
 
-.web-1920-1 .no-path-copy-HlzXCz {
+.web-1280-1 .no-path-copy-iw6dzL {
   background-color: transparent;
   cursor: pointer;
   height: 114px;
-  left: 996px;
+  left: 641px;
   object-fit: cover;
   pointer-events: auto;
   position: absolute;
@@ -168,21 +173,21 @@
   width: 114px;
 }
 
-.web-1920-1 .no-path-copy-HlzXCz:hover {
+.web-1280-1 .no-path-copy-iw6dzL:hover {
   transform: scale(0.9); 
 }
 
-.web-1920-1 .union-5-HlzXCz {
+.web-1280-1 .union-6-iw6dzL {
   background-color: transparent;
-  height: 693px;
+  height: 674px;
   left: 166px;
   object-fit: cover;
   position: absolute;
-  top: 313px;
-  width: 1591px;
+  top: 309px;
+  width: 916px;
 }
 
-.web-1920-1 .still-wondering-how-this-works-HlzXCz {
+.web-1280-1 .still-wondering-how-this-works-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
@@ -198,20 +203,20 @@
   width: auto;
 }
 
-.web-1920-1 .still-wondering-how-this-works-HlzXCz.animate-enter {
-  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1280-1 .still-wondering-how-this-works-iw6dzL.animate-enter8 {
+  animation: animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter-frames {
+@keyframes animate-enter8-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.web-1920-1 .lets-get-into-the-mechanics-HlzXCz {
+.web-1280-1 .lets-get-into-the-mechanics-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
@@ -227,25 +232,25 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .lets-get-into-the-mechanics-HlzXCz.animate-enter1 {
-  animation: animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1280-1 .lets-get-into-the-mechanics-iw6dzL.animate-enter9 {
+  animation: animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter1-frames {
+@keyframes animate-enter9-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.web-1920-1 .nfa-is-designed-e-founders-rich-HlzXCz {
+.web-1280-1 .nfa-is-designed-e-founders-rich-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
   height: auto;
-  left: 230px;
+  left: 105px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
@@ -256,20 +261,20 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .nfa-is-designed-e-founders-rich-HlzXCz.animate-enter2 {
-  animation: animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1280-1 .nfa-is-designed-e-founders-rich-iw6dzL.animate-enter10 {
+  animation: animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter2-frames {
+@keyframes animate-enter10-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.web-1920-1 .and-possibly-some-other-people-HlzXCz {
+.web-1280-1 .and-possibly-some-other-people-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
@@ -285,78 +290,54 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .and-possibly-some-other-people-HlzXCz.animate-enter3 {
-  animation: animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1280-1 .and-possibly-some-other-people-iw6dzL.animate-enter11 {
+  animation: animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter3-frames {
+@keyframes animate-enter11-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.web-1920-1 .but-if-that-hap-bout-whatsoever-HlzXCz {
+.web-1280-1 .but-if-that-hap-bout-whatsoever-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
+  color: var(--white);
   display: block;
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
   height: auto;
   left: 228px;
   letter-spacing: 0.00px;
-  line-height: 40px;
+  line-height: 22px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2602px;
+  top: 2600px;
   white-space: nowrap;
   width: auto;
 }
 
-.web-1920-1 .but-if-that-hap-bout-whatsoever-HlzXCz.animate-enter4 {
-  animation: animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1280-1 .but-if-that-hap-bout-whatsoever-iw6dzL.animate-enter12 {
+  animation: animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter4-frames {
+@keyframes animate-enter12-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.web-1920-1 .who-is-nfa-HlzXCz {
-  -webkit-text-stroke: 1px transparent;
-  background-color: transparent;
-  display: block;
-  height: auto;
-  left: 230px;
-  letter-spacing: 0.00px;
-  line-height: 40px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: 2734px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.web-1920-1 .who-is-nfa-HlzXCz.animate-enter5 {
-  animation: animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes animate-enter5-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.web-1920-1 .most-importantl-yer-on-our-team-HlzXCz {
+.web-1280-1 .most-importantl-yer-on-our-team-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
@@ -372,24 +353,24 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .most-importantl-yer-on-our-team-HlzXCz.animate-enter6 {
-  animation: animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1280-1 .most-importantl-yer-on-our-team-iw6dzL.animate-enter13 {
+  animation: animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter6-frames {
+@keyframes animate-enter13-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.web-1920-1 .he-gives-us-con-efinitely-legit-HlzXCz {
+.web-1280-1 .he-gives-us-con-efinitely-legit-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
-  left: 227px;
+  left: 223px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
@@ -399,25 +380,30 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .and-we-are-usin-ening-right-now-HlzXCz {
+.web-1280-1 .and-we-are-usin-ening-right-now-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
   height: auto;
   left: 227px;
   letter-spacing: 0.00px;
-  line-height: 40px;
+  line-height: 21px;
   position: absolute;
   text-align: left;
-  top: 3012px;
+  top: 3009px;
   white-space: nowrap;
   width: auto;
 }
 
-.web-1920-1 .not-really-as-w-inancial-advice-HlzXCz {
+.web-1280-1 .not-really-as-w-inancial-advice-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
-  left: 229px;
+  left: 98px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
@@ -427,7 +413,7 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .nfa-is-designed-et-rich-as-fuck-HlzXCz {
+.web-1280-1 .nfa-is-designed-et-rich-as-fuck-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
@@ -441,21 +427,7 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .okay-moving-on-HlzXCz {
-  -webkit-text-stroke: 1px transparent;
-  background-color: transparent;
-  height: auto;
-  left: 229px;
-  letter-spacing: 0.00px;
-  line-height: 40px;
-  position: absolute;
-  text-align: left;
-  top: 3206px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.web-1920-1 .what-are-we-goi-with-the-money-HlzXCz {
+.web-1280-1 .what-are-we-goi-with-the-money-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
@@ -469,11 +441,11 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .super-yacht-HlzXCz {
+.web-1280-1 .super-yacht-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
-  left: 689px;
+  left: 368px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
@@ -483,7 +455,7 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .remember-none-o-u-will-get-rich-HlzXCz {
+.web-1280-1 .remember-none-o-u-will-get-rich-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   color: var(--white);
@@ -492,7 +464,7 @@ to{opacity: 1;
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 706px;
+  left: 384px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
@@ -502,7 +474,7 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .none-of-your-fucking-business-HlzXCz {
+.web-1280-1 .none-of-your-fucking-business-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
@@ -518,34 +490,34 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .none-of-your-fucking-business-HlzXCz.animate-enter7 {
-  animation: animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1280-1 .none-of-your-fucking-business-iw6dzL.animate-enter14 {
+  animation: animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter7-frames {
+@keyframes animate-enter14-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.web-1920-1 .ryan-geller-kng-kle-t4-unsplash-HlzXCz {
+.web-1280-1 .ryan-geller-kng-kle-t4-unsplash-iw6dzL {
   background-color: transparent;
   height: 317px;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 3873px;
-  width: 1920px;
+  width: 1277px;
 }
 
-.web-1920-1 .private-island-HlzXCz {
+.web-1280-1 .private-island-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
-  left: 689px;
+  left: 351px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
@@ -555,21 +527,21 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .mostafa-safadel-jkw-q-unsplash-HlzXCz {
+.web-1280-1 .mostafa-safadel-jkw-q-unsplash-iw6dzL {
   background-color: transparent;
   height: 317px;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 4190px;
-  width: 1920px;
+  width: 1277px;
 }
 
-.web-1920-1 .other-super-cool-stuff-HlzXCz {
+.web-1280-1 .other-super-cool-stuff-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
-  left: 438px;
+  left: 116px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
@@ -579,16 +551,59 @@ to{opacity: 1;
   width: auto;
 }
 
-.web-1920-1 .investment-thesis-HlzXCz {
+.web-1280-1 .investment-thesis-iw6dzL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
-  left: 577px;
+  left: 255px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
   text-align: left;
   top: 4602px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1280-1 .who-is-nfa-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 230px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2734px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1280-1 .who-is-nfa-iw6dzL.animate-enter15 {
+  animation: animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter15-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .okay-moving-on-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 229px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 3206px;
   white-space: nowrap;
   width: auto;
 }

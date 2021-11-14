@@ -1,9 +1,13 @@
 :root { 
+  --night-rider: #211010;
   --white: #ffffff;
  
-  --font-size-l: 100px;
+  --font-size-l: 59px;
   --font-size-m: 40px;
   --font-size-s: 25px;
+  --font-size-xl: 100px;
+  --font-size-xs: 22px;
+  --font-size-xxs: 21px;
  
   --font-family-futura-medium: "Futura-Medium", Helvetica;
   --font-family-permanentmarker_pro-regular: "permanent-marker-pro", Helvetica;
@@ -19,7 +23,7 @@
 .futura-medium-white-100px {
   color: var(--white);
   font-family: var(--font-family-futura-medium);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 500;
 }
@@ -27,7 +31,7 @@
 .permanentmarkerpro-regular-normal-white-100px {
   color: var(--white);
   font-family: var(--font-family-permanentmarker_pro-regular);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
