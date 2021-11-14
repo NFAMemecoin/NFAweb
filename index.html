@@ -17,6 +17,7 @@
     <div class="container-center-horizontal">
       <div class="web-1920-1 screen">
         <div class="rectangle-1-HlzXCz"></div>
+        <img class="ibrahim-mushan-wl5-vi-unsplash-HlzXCz" src="img/ibrahim-mushan-nzpztkwl5vi-unsplash@1x.png" />
         <div class="widget-wrapper-HlzXCz">
           <img class="mackenzie-marco-ydsdza-unsplash-mYZ4sz" src="img/mackenzie-marco-xg88bydsdza-unsplash@1x.png" />
           <script>
@@ -45,8 +46,158 @@
         <a href="https://twitter.com/NFACoins" target="_blank"
           ><img class="no-path-copy-HlzXCz smart-layers-pointers" src="img/nopath---copy@1x.png" /> </a
         ><img class="union-5-HlzXCz" src="img/union-5@1x.png" />
+        <div class="still-wondering-how-this-works-HlzXCz futura-medium-white-40px animate-enter">
+          Still wondering how this works?
+        </div>
+        <div class="lets-get-into-the-mechanics-HlzXCz futura-medium-white-40px animate-enter1">
+          Let’s get into the mechanics.
+        </div>
+        <div class="nfa-is-designed-e-founders-rich-HlzXCz futura-medium-white-40px animate-enter2">
+          $NFA is designed from the ground up to make the founders rich.
+        </div>
+        <div class="and-possibly-some-other-people-HlzXCz futura-medium-white-40px animate-enter3">
+          And possibly some other people
+        </div>
+        <div class="but-if-that-hap-bout-whatsoever-HlzXCz futura-medium-white-40px animate-enter4" show-on-scroll>
+          But if that happens it’s totally a byproduct we don’t give a fuck about, whatsoever.
+        </div>
+        <div class="who-is-nfa-HlzXCz futura-medium-white-40px animate-enter5" show-on-scroll>Who is $NFA?</div>
+        <div class="most-importantl-yer-on-our-team-HlzXCz futura-medium-white-40px animate-enter6" show-on-scroll>
+          Most importantly, we have a real lawyer on our team.
+        </div>
+        <div class="he-gives-us-con-efinitely-legit-HlzXCz futura-medium-white-40px">
+          He gives us constant financial advice that’s definitely legit.
+        </div>
+        <div class="and-we-are-usin-ening-right-now-HlzXCz futura-medium-white-40px">
+          And we are using this advice to help you. That’s what is happening right now.
+        </div>
+        <div class="not-really-as-w-inancial-advice-HlzXCz futura-medium-white-40px">
+          (Not really, as we have said before, this is NOT financial advice)
+        </div>
+        <div class="nfa-is-designed-et-rich-as-fuck-HlzXCz futura-medium-white-40px">
+          $NFA is designed to help YOU help US get rich as fuck.
+        </div>
+        <div class="okay-moving-on-HlzXCz futura-medium-white-40px">Okay. Moving on…</div>
+        <div class="what-are-we-goi-with-the-money-HlzXCz futura-medium-white-40px">
+          What are we going to do with the money?
+        </div>
+        <div class="super-yacht-HlzXCz futura-medium-white-100px">Super Yacht</div>
+        <div class="remember-none-o-u-will-get-rich-HlzXCz">
+          Remember - none of this is financial advice.<br />You will likely lose all of your fucking money.<br />But
+          maybe you will get rich.
+        </div>
+        <div class="none-of-your-fucking-business-HlzXCz futura-medium-white-40px animate-enter7" show-on-scroll>
+          None of your fucking business.
+        </div>
+        <img class="ryan-geller-kng-kle-t4-unsplash-HlzXCz" src="img/ryan-geller-kng-efklet4-unsplash@1x.png" />
+        <div class="private-island-HlzXCz futura-medium-white-100px">Private Island</div>
+        <img class="mostafa-safadel-jkw-q-unsplash-HlzXCz" src="img/mostafa-safadel-chjaxnjk-wq-unsplash@1x.png" />
+        <div class="other-super-cool-stuff-HlzXCz futura-medium-white-100px">Other Super Cool Stuff</div>
+        <div class="investment-thesis-HlzXCz futura-medium-white-100px">Investment Thesis</div>
       </div>
     </div>
     <link rel="stylesheet" href="https://use.typekit.net/cni7snu.css">
+    <script>
+      function ShowOnScroll() {
+        this.toShow = [];
+        this.nextEventY = undefined;
+      }
+
+      ShowOnScroll.prototype.show = function (e) {
+        e.style.display = "";
+      };
+
+      ShowOnScroll.prototype.hide = function (e) {
+        e.style.display = "none";
+      };
+
+      ShowOnScroll.prototype.getTop = function (e) {
+        if (e.Top != undefined && e.Top != 0) {
+          return e.Top;
+        }
+        var top = 0;
+        var iter = e;
+        do {
+          top += iter.offsetTop || 0;
+          iter = iter.offsetParent;
+        } while (iter);
+        e.Top = top;
+        return top;
+      };
+
+      ShowOnScroll.prototype.onScroll = function () {
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        if (this.nextEventY == undefined || this.nextEventY > screenBottom) {
+          return;
+        }
+        this.nextEventY = undefined;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            this.show(e);
+            this.toShow.shift();
+            i--;
+          } else {
+            this.nextEventY = top;
+            break;
+          }
+        }
+      };
+
+      ShowOnScroll.prototype.resetScrolling = function () {
+        // Clear state
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          this.show(e);
+        }
+        this.toShow = [];
+        this.nextEventY == undefined;
+
+        // Collect items
+        var itemsToShowOnScroll = Array.prototype.slice.call(document.getElementsByTagName("*"));
+        itemsToShowOnScroll = itemsToShowOnScroll.filter(function (e) {
+          return e.getAttribute("show-on-scroll") != undefined;
+        });
+        var getTop = this.getTop;
+        itemsToShowOnScroll.sort(function (a, b) {
+          return getTop(a) - getTop(b);
+        });
+        for (var i = 0; i < itemsToShowOnScroll.length; i++) {
+          var e = itemsToShowOnScroll[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            continue;
+          }
+          this.toShow.push(e);
+          this.hide(e);
+          this.nextEventY = this.nextEventY != undefined ? this.nextEventY : top;
+        }
+      };
+
+      ShowOnScroll.prototype.handleEvent = function (e) {
+        switch (e.type) {
+          case "scroll":
+            this.onScroll();
+            break;
+          case "resize":
+            this.resetScrolling();
+            break;
+        }
+      };
+
+      ShowOnScroll.prototype.init = function () {
+        this.resetScrolling();
+        window.addEventListener("scroll", this);
+        window.addEventListener("resize", this);
+      };
+
+      // After anima-src
+      setTimeout(function () {
+        var instShowOnScroll = new ShowOnScroll();
+        instShowOnScroll.init();
+      }, 250);
+    </script>
   </body>
 </html>
