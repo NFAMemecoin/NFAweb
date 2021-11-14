@@ -1,32 +1,647 @@
+/* screen - web-1280-1 */
+
+.web-1280-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 5760px;
+  min-width: 1280px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.web-1280-1 .rectangle-5-iw6dzL {
+  background-color: var(--night-rider);
+  border: 1px solid #707070;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.web-1280-1 .ibrahim-mushan-wl5-vi-unsplash-iw6dzL {
+  background-color: transparent;
+  bottom: calc(34.67% - 110px);
+  height: 317px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.web-1280-1 .widget-wrapper-iw6dzL {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: calc(23.18% - 250px);
+  width: calc(100.00% - 3px);
+}
+
+.web-1280-1 .mackenzie-marco-ydsdza-unsplash-6WL1rQ {
+  background-color: transparent;
+  object-fit: cover;
+  width: 100%;
+}
+
+.web-1280-1 .not-financial-advice-buy-nfa-iw6dzL {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-permanentmarker_pro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 92px;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 59px;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  white-space: nowrap;
+  width: calc(100.00% - 343px);
+}
+
+.web-1280-1 .group-12-iw6dzL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 224px;
+  left: 162px;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(24.51% - 55px);
+  transition: all 0.2s ease;
+  width: calc(100.00% - 328px);
+}
+
+.web-1280-1 .group-12-iw6dzL:hover {
+  transform: scale(0.9); 
+}
+
+.web-1280-1 .path-1-fI6RWx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1280-1 .buy-on-uniswap-fI6RWx {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: calc(10.14% - 16px);
+  height: 155px;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 211px);
+}
+
+.web-1280-1 .group-13-iw6dzL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 224px;
+  left: 162px;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(29.08% - 65px);
+  transition: all 0.2s ease;
+  width: calc(100.00% - 328px);
+}
+
+.web-1280-1 .group-13-iw6dzL:hover {
+  transform: scale(0.9); 
+}
+
+.web-1280-1 .rectangle-3-WxCmR0 {
+  background-color: var(--night-rider);
+  border: 3px solid var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1280-1 .view-dextools-WxCmR0 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: calc(10.14% - 16px);
+  height: 155px;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 258px);
+}
+
+.web-1280-1 .no-path-iw6dzL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 114px;
+  left: calc(43.31% - 49px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(33.19% - 38px);
+  transition: all 0.2s ease;
+  width: 114px;
+}
+
+.web-1280-1 .no-path-iw6dzL:hover {
+  transform: scale(0.9); 
+}
+
+.web-1280-1 .no-path-copy-iw6dzL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 114px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(45.03% - 51px);
+  top: calc(33.19% - 38px);
+  transition: all 0.2s ease;
+  width: 114px;
+}
+
+.web-1280-1 .no-path-copy-iw6dzL:hover {
+  transform: scale(0.9); 
+}
+
+.web-1280-1 .union-6-iw6dzL {
+  background-color: transparent;
+  height: 674px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 913px;
+}
+
+.web-1280-1 .still-wondering-how-this-works-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  display: block;
+  height: 54px;
+  left: calc(32.27% - 185px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(40.03% - 22px);
+  white-space: nowrap;
+  width: 572px;
+}
+
+.web-1280-1 .still-wondering-how-this-works-iw6dzL.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .lets-get-into-the-mechanics-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  display: block;
+  height: 54px;
+  left: calc(29.79% - 153px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(41.11% - 22px);
+  white-space: nowrap;
+  width: 513px;
+}
+
+.web-1280-1 .lets-get-into-the-mechanics-iw6dzL.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .nfa-is-designed-e-founders-rich-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  display: block;
+  height: 54px;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(43.43% - 23px);
+  white-space: nowrap;
+  width: calc(100.00% - 106px);
+}
+
+.web-1280-1 .nfa-is-designed-e-founders-rich-iw6dzL.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .and-possibly-some-other-people-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  display: block;
+  height: 54px;
+  left: calc(33.14% - 195px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(44.51% - 24px);
+  white-space: nowrap;
+  width: 589px;
+}
+
+.web-1280-1 .and-possibly-some-other-people-iw6dzL.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .but-if-that-hap-bout-whatsoever-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.78% - 411px);
+  text-align: left;
+  top: calc(45.37% - 14px);
+  white-space: nowrap;
+  width: 826px;
+}
+
+.web-1280-1 .but-if-that-hap-bout-whatsoever-iw6dzL.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .most-importantl-yer-on-our-team-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(49.39% - 27px);
+  display: block;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  right: 66px;
+  text-align: left;
+  white-space: nowrap;
+  width: 987px;
+}
+
+.web-1280-1 .most-importantl-yer-on-our-team-iw6dzL.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .he-gives-us-con-efinitely-legit-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(48.30% - 26px);
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: 1px;
+  text-align: left;
+  white-space: nowrap;
+  width: 1056px;
+}
+
+.web-1280-1 .and-we-are-usin-ening-right-now-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(47.50% - 14px);
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 29px;
+  left: calc(42.19% - 313px);
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 742px;
+}
+
+.web-1280-1 .not-really-as-w-inancial-advice-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(46.13% - 25px);
+  height: 54px;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 99px);
+}
+
+.web-1280-1 .nfa-is-designed-et-rich-as-fuck-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(42.20% - 23px);
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: 31px;
+  text-align: left;
+  white-space: nowrap;
+  width: 1018px;
+}
+
+.web-1280-1 .what-are-we-goi-with-the-money-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(39.89% - 22px);
+  height: 54px;
+  left: calc(45.38% - 350px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 771px;
+}
+
+.web-1280-1 .super-yacht-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(35.27% - 47px);
+  height: 132px;
+  left: calc(50.00% - 272px);
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 544px;
+}
+
+.web-1280-1 .remember-none-o-u-will-get-rich-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: 72px;
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+  height: 100px;
+  left: calc(49.93% - 255px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 511px;
+}
+
+.web-1280-1 .none-of-your-fucking-business-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  display: block;
+  height: 54px;
+  left: calc(32.44% - 186px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(49.53% - 27px);
+  white-space: nowrap;
+  width: 574px;
+}
+
+.web-1280-1 .none-of-your-fucking-business-iw6dzL.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .ryan-geller-kng-kle-t4-unsplash-iw6dzL {
+  background-color: transparent;
+  bottom: calc(28.84% - 91px);
+  height: 317px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.web-1280-1 .private-island-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(29.25% - 39px);
+  height: 132px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  right: calc(47.46% - 290px);
+  text-align: left;
+  white-space: nowrap;
+  width: 612px;
+}
+
+.web-1280-1 .mostafa-safadel-jkw-q-unsplash-iw6dzL {
+  background-color: transparent;
+  bottom: calc(23.02% - 73px);
+  height: 317px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.web-1280-1 .other-super-cool-stuff-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(23.61% - 31px);
+  height: 132px;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 233px);
+}
+
+.web-1280-1 .investment-thesis-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(18.23% - 24px);
+  height: 132px;
+  left: calc(49.90% - 384px);
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 769px;
+}
+
+.web-1280-1 .who-is-nfa-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  display: block;
+  height: 54px;
+  left: calc(22.66% - 60px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(47.91% - 26px);
+  white-space: nowrap;
+  width: 267px;
+}
+
+.web-1280-1 .who-is-nfa-iw6dzL.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1280-1 .okay-moving-on-iw6dzL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(43.81% - 24px);
+  height: 54px;
+  left: calc(24.86% - 89px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 359px;
+}
 /* screen - web-1920-1 */
 
 .web-1920-1 {
   background-color: var(--white);
-  height: 5760px;
+  height: 100vh;
+  margin: 0px;
+  min-height: 5760px;
+  min-width: 1920px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1920px;
+  width: 100%;
 }
 
 .web-1920-1 .rectangle-1-HlzXCz {
   background-color: var(--night-rider);
   border: 1px solid #707070;
-  height: 5760px;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1920px;
+  width: 100%;
 }
 
 .web-1920-1 .ibrahim-mushan-wl5-vi-unsplash-HlzXCz {
   background-color: transparent;
+  bottom: calc(34.67% - 110px);
   height: 317px;
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 3556px;
-  width: 1920px;
+  width: 100%;
 }
 
 .web-1920-1 .widget-wrapper-HlzXCz {
@@ -34,8 +649,8 @@
   height: 1080px;
   left: 0px;
   position: absolute;
-  top: 1085px;
-  width: 1920px;
+  top: calc(23.18% - 250px);
+  width: 100%;
 }
 
 .web-1920-1 .mackenzie-marco-ydsdza-unsplash-mYZ4sz {
@@ -47,7 +662,7 @@
 .web-1920-1 .title-HlzXCz {
   -webkit-text-stroke: 1px var(--white);
   background-color: transparent;
-  height: auto;
+  height: 155px;
   left: 168px;
   letter-spacing: 0.00px;
   line-height: 100px;
@@ -55,17 +670,17 @@
   text-align: center;
   top: 106px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 333px);
 }
 
 .web-1920-1 .group-1-HlzXCz {
   background-color: transparent;
   cursor: pointer;
   height: 224px;
-  left: 484px;
+  left: calc(50.00% - 476px);
   pointer-events: auto;
   position: absolute;
-  top: 1357px;
+  top: calc(24.51% - 55px);
   transition: all 0.2s ease;
   width: 952px;
 }
@@ -102,10 +717,10 @@
   background-color: transparent;
   cursor: pointer;
   height: 224px;
-  left: 484px;
+  left: calc(50.00% - 476px);
   pointer-events: auto;
   position: absolute;
-  top: 1610px;
+  top: calc(29.08% - 65px);
   transition: all 0.2s ease;
   width: 952px;
 }
@@ -142,11 +757,11 @@
   background-color: transparent;
   cursor: pointer;
   height: 114px;
-  left: 784px;
+  left: calc(43.41% - 49px);
   object-fit: cover;
   pointer-events: auto;
   position: absolute;
-  top: 1874px;
+  top: calc(33.19% - 38px);
   transition: all 0.2s ease;
   width: 114px;
 }
@@ -159,11 +774,11 @@
   background-color: transparent;
   cursor: pointer;
   height: 114px;
-  left: 996px;
   object-fit: cover;
   pointer-events: auto;
   position: absolute;
-  top: 1874px;
+  right: calc(44.85% - 51px);
+  top: calc(33.19% - 38px);
   transition: all 0.2s ease;
   width: 114px;
 }
@@ -179,32 +794,32 @@
   object-fit: cover;
   position: absolute;
   top: 313px;
-  width: 1591px;
+  width: calc(100.00% - 333px);
 }
 
 .web-1920-1 .still-wondering-how-this-works-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
-  height: auto;
+  height: 54px;
   left: 228px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2284px;
+  top: calc(40.03% - 22px);
   white-space: nowrap;
-  width: auto;
+  width: 572px;
 }
 
-.web-1920-1 .still-wondering-how-this-works-HlzXCz.animate-enter {
-  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .still-wondering-how-this-works-HlzXCz.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter-frames {
+@keyframes bp1-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -215,25 +830,25 @@ to{opacity: 1;
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
-  height: auto;
+  height: 54px;
   left: 228px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2346px;
+  top: calc(41.11% - 22px);
   white-space: nowrap;
-  width: auto;
+  width: 513px;
 }
 
-.web-1920-1 .lets-get-into-the-mechanics-HlzXCz.animate-enter1 {
-  animation: animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .lets-get-into-the-mechanics-HlzXCz.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter1-frames {
+@keyframes bp1-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -244,25 +859,25 @@ to{opacity: 1;
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
-  height: auto;
+  height: 54px;
   left: 230px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2478px;
+  top: calc(43.43% - 23px);
   white-space: nowrap;
-  width: auto;
+  width: 1174px;
 }
 
-.web-1920-1 .nfa-is-designed-e-founders-rich-HlzXCz.animate-enter2 {
-  animation: animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .nfa-is-designed-e-founders-rich-HlzXCz.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter2-frames {
+@keyframes bp1-animate-enter2-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -273,25 +888,25 @@ to{opacity: 1;
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
-  height: auto;
+  height: 54px;
   left: 229px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2540px;
+  top: calc(44.51% - 24px);
   white-space: nowrap;
-  width: auto;
+  width: 589px;
 }
 
-.web-1920-1 .and-possibly-some-other-people-HlzXCz.animate-enter3 {
-  animation: animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .and-possibly-some-other-people-HlzXCz.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter3-frames {
+@keyframes bp1-animate-enter3-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -302,25 +917,25 @@ to{opacity: 1;
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
-  height: auto;
+  height: 54px;
   left: 228px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2602px;
+  top: calc(45.60% - 25px);
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 419px);
 }
 
-.web-1920-1 .but-if-that-hap-bout-whatsoever-HlzXCz.animate-enter4 {
-  animation: animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .but-if-that-hap-bout-whatsoever-HlzXCz.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter4-frames {
+@keyframes bp1-animate-enter4-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -331,25 +946,25 @@ to{opacity: 1;
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
-  height: auto;
+  height: 54px;
   left: 230px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2734px;
+  top: calc(47.91% - 26px);
   white-space: nowrap;
-  width: auto;
+  width: 267px;
 }
 
-.web-1920-1 .who-is-nfa-HlzXCz.animate-enter5 {
-  animation: animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .who-is-nfa-HlzXCz.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter5-frames {
+@keyframes bp1-animate-enter5-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -359,26 +974,26 @@ to{opacity: 1;
 .web-1920-1 .most-importantl-yer-on-our-team-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
+  bottom: calc(49.39% - 27px);
   display: block;
-  height: auto;
+  height: 54px;
   left: 227px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2888px;
   white-space: nowrap;
-  width: auto;
+  width: 987px;
 }
 
-.web-1920-1 .most-importantl-yer-on-our-team-HlzXCz.animate-enter6 {
-  animation: animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .most-importantl-yer-on-our-team-HlzXCz.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter6-frames {
+@keyframes bp1-animate-enter6-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -388,143 +1003,143 @@ to{opacity: 1;
 .web-1920-1 .he-gives-us-con-efinitely-legit-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
+  bottom: calc(48.30% - 26px);
+  height: 54px;
   left: 227px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
   text-align: left;
-  top: 2950px;
   white-space: nowrap;
-  width: auto;
+  width: 1056px;
 }
 
 .web-1920-1 .and-we-are-usin-ening-right-now-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
+  bottom: calc(47.21% - 25px);
+  height: 54px;
   left: 227px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
   text-align: left;
-  top: 3012px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 508px);
 }
 
 .web-1920-1 .not-really-as-w-inancial-advice-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
+  bottom: calc(46.13% - 25px);
+  height: 54px;
   left: 229px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
   text-align: left;
-  top: 3074px;
   white-space: nowrap;
-  width: auto;
+  width: 1181px;
 }
 
 .web-1920-1 .nfa-is-designed-et-rich-as-fuck-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
+  bottom: calc(42.20% - 23px);
+  height: 54px;
   left: 231px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
   text-align: left;
-  top: 3298px;
   white-space: nowrap;
-  width: auto;
+  width: 1018px;
 }
 
 .web-1920-1 .okay-moving-on-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
+  bottom: calc(43.81% - 24px);
+  height: 54px;
   left: 229px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
   text-align: left;
-  top: 3206px;
   white-space: nowrap;
-  width: auto;
+  width: 359px;
 }
 
 .web-1920-1 .what-are-we-goi-with-the-money-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
+  bottom: calc(39.89% - 22px);
+  height: 54px;
   left: 231px;
   letter-spacing: 0.00px;
   line-height: 40px;
   position: absolute;
   text-align: left;
-  top: 3430px;
   white-space: nowrap;
-  width: auto;
+  width: 771px;
 }
 
 .web-1920-1 .super-yacht-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
-  left: 689px;
+  bottom: calc(35.27% - 47px);
+  height: 132px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
+  right: calc(49.93% - 272px);
   text-align: left;
-  top: 3643px;
   white-space: nowrap;
-  width: auto;
+  width: 544px;
 }
 
 .web-1920-1 .remember-none-o-u-will-get-rich-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
+  bottom: 72px;
   color: var(--white);
   font-family: var(--font-family-futura-medium);
   font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 500;
-  height: auto;
-  left: 706px;
+  height: 100px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: calc(49.89% - 255px);
   text-align: center;
-  top: 5588px;
   white-space: nowrap;
-  width: auto;
+  width: 511px;
 }
 
 .web-1920-1 .none-of-your-fucking-business-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   display: block;
-  height: auto;
+  height: 54px;
   left: 229px;
   letter-spacing: 0.00px;
   line-height: 40px;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2826px;
+  top: calc(49.53% - 27px);
   white-space: nowrap;
-  width: auto;
+  width: 574px;
 }
 
-.web-1920-1 .none-of-your-fucking-business-HlzXCz.animate-enter7 {
-  animation: animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1920-1 .none-of-your-fucking-business-HlzXCz.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter7-frames {
+@keyframes bp1-animate-enter7-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -533,62 +1148,72 @@ to{opacity: 1;
 
 .web-1920-1 .ryan-geller-kng-kle-t4-unsplash-HlzXCz {
   background-color: transparent;
+  bottom: calc(28.84% - 91px);
   height: 317px;
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 3873px;
-  width: 1920px;
+  width: 100%;
 }
 
 .web-1920-1 .private-island-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
-  left: 689px;
+  bottom: calc(29.25% - 39px);
+  height: 132px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
+  right: calc(47.32% - 290px);
   text-align: left;
-  top: 3982px;
   white-space: nowrap;
-  width: auto;
+  width: 612px;
 }
 
 .web-1920-1 .mostafa-safadel-jkw-q-unsplash-HlzXCz {
   background-color: transparent;
+  bottom: calc(23.02% - 73px);
   height: 317px;
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 4190px;
-  width: 1920px;
+  width: 100%;
 }
 
 .web-1920-1 .other-super-cool-stuff-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
-  left: 438px;
+  bottom: calc(23.61% - 31px);
+  height: 132px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
+  right: calc(49.83% - 522px);
   text-align: left;
-  top: 4299px;
   white-space: nowrap;
-  width: auto;
+  width: 1047px;
 }
 
 .web-1920-1 .investment-thesis-HlzXCz {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
-  height: auto;
-  left: 577px;
+  bottom: calc(18.23% - 24px);
+  height: 132px;
   letter-spacing: 0.00px;
   line-height: 100px;
   position: absolute;
+  right: calc(49.87% - 383px);
   text-align: left;
-  top: 4602px;
   white-space: nowrap;
-  width: auto;
+  width: 769px;
+}
+@media screen and (max-width: 1919px) {
+  .screen.web-1920-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.web-1280-1 { 
+    display: none;
+   }
 }
