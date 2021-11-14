@@ -1,5 +1,12 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
+@font-face {
+  font-family: "Futura-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("fonts/futura.otf") format("opentype");
+}
+
 .screen textarea:focus,
 .screen input:focus {
   outline: none;
